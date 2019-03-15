@@ -13,6 +13,14 @@
  *  - Kit: ATMEL SAME70-XPLD - ARM CORTEX M7
  */
 
+/** 
+ ** Entrega realizada em parceria com:
+ **  - Pedro Azambuja
+ **  - Juan Jorge Garcia
+ ** 
+ **  - https://www.youtube.com/watch?v=ROb1iACliDI
+ **/
+
 /************************************************************************/
 /* includes                                                             */
 /************************************************************************/
